@@ -1,0 +1,3 @@
+[submodule "dnddata"]
+	path = dnddata
+	url = git@github.com:oganm/dnddata.git
